@@ -1,0 +1,22 @@
+{
+  "name": "jstutorial",
+  "version": "1.0.0",
+  "description": "javascript code testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineetsofts1982/javascriptcode.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "vineet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vineetsofts1982/javascriptcode/issues"
+  },
+  "homepage": "https://github.com/vineetsofts1982/javascriptcode#readme"
+}
